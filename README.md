@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Abderahmane 👋</h1>
 
 <h3 align="center">
-SOC Analyst | Security Automation | Alert Traige | Investigating Incidents
+Aspiring SOC Analyst | Alert Triage & Incident Investigation | Security Automation | Threat Detection & Incident Response
 </h3>
 
 <p align="center">
-i am an Aspiring Soc analyst which traige alerts and investigate incidents and Security Authomation 
+I am an aspiring SOC Analyst with hands-on experience in alert triage, security incident investigation, and security automation. I am focused on developing my skills in threat detection, incident response, and security operations while continuously improving my ability to analyze and respond to cybersecurity threats.
+
 </p>
 
 ---
