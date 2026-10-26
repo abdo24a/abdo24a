@@ -1,17 +1,14 @@
 # 👋 Hi, I'm Abderahmane
 
-<h3 align="center">Aspiring SOC Analyst | Threat Detection | Incident Response | Security Operations</h3>
+<h3 align="center">Aspiring SOC Analyst | Threat Detection | Incident Response | Security Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+SOC+Analyst+L1;Investigating+Security+Alerts;Learning+Threat+Detection;Building+Cybersecurity+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+SOC+Analyst+%7C+L1;Threat+Detection+%26+Incident+Investigation;Python+for+Security+Automation;Learning+%7C+Investigating+%7C+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="YOUR_GITHUB_URL?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
   <a href="https://tryhackme.com/p/abdo156">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
@@ -22,59 +19,64 @@
 
 ## 🎯 Objective
 
-I am an aspiring **Tier 1 Security Operations Center (SOC) Analyst** focused on developing practical skills in security monitoring, alert triage, threat detection, and incident investigation.
+I am an aspiring **Tier 1 SOC Analyst** focused on developing practical skills in security monitoring, alert triage, threat detection, and incident investigation.
 
-My goal is to identify suspicious activities, analyze security events, distinguish true positives from false positives, document investigation findings, and escalate confirmed or suspected threats to the appropriate security teams.
+My goal is to contribute to a Security Operations Center by analyzing security alerts, identifying suspicious activities, investigating indicators of compromise (IOCs), documenting findings, and escalating potential threats appropriately.
 
-I am continuously strengthening my cybersecurity knowledge through hands-on practice, security labs, and realistic SOC investigation scenarios.
+I am also passionate about **Python and security automation**, with a focus on building tools that streamline repetitive tasks and improve SOC investigation workflows.
 
-## 🛡️ Core Cybersecurity Skills
+## 🛡️ Cybersecurity Skills
 
-- 🔎 **Security Alert Triage:** Reviewing alerts, assessing severity, prioritizing investigations, and determining appropriate next steps.
-- 🕵️ **Incident Investigation:** Analyzing event logs, process trees, authentication events, and network connections.
-- 🌐 **Threat Intelligence:** Investigating IP addresses, domains, file hashes, and other indicators of compromise (IOCs).
-- 🚨 **Threat Detection:** Identifying suspicious PowerShell activity, unusual authentication, lateral movement, and potential data exfiltration.
-- 🧪 **Incident Classification:** Evaluating true positives and false positives using available evidence.
-- 🔐 **Incident Response:** Supporting containment decisions, preserving evidence, documenting findings, and escalating incidents to L2.
-- 📝 **SOC Documentation:** Writing investigation summaries, recording evidence, and communicating findings clearly.
+- 🔎 **Alert Triage:** Assessing alerts, evaluating severity, and prioritizing investigations.
+- 🕵️ **Incident Investigation:** Analyzing authentication events, process execution, event logs, and network activity.
+- 🧪 **Threat Intelligence:** Investigating IP addresses, domains, file hashes, and other indicators of compromise.
+- 🚨 **Incident Response:** Identifying true positives and false positives, documenting evidence, and escalating suspicious incidents.
+- 🔐 **Threat Detection:** Recognizing suspicious behavior, potential attack patterns, and signs of compromise.
+- ⚙️ **Security Automation:** Using Python to automate repetitive tasks and improve investigation efficiency.
 
-## 🧰 Security Operations Knowledge
+## 🧰 Technical Skills
 
-- Security Operations Center (SOC) workflows
-- SIEM alert investigation concepts
-- Log analysis and event correlation
-- Endpoint and network investigation
-- Indicators of Compromise (IOCs)
-- Threat intelligence and OSINT
-- MITRE ATT&CK concepts
-- Incident documentation and escalation
+- **Programming:** Python
+- **Cybersecurity:** SOC Operations, Alert Triage, Threat Detection, Incident Investigation, IOC Analysis
+- **Automation:** Python Scripting, Workflow Automation
+- **Tools:** Git, GitHub
 
-## 🚀 Cybersecurity Labs & Practice
+## 🚀 Projects
 
-I practice realistic SOC scenarios involving suspicious activity, security alerts, and incident investigation.
+### 🛡️ SOC Investigation Labs
 
-My investigation workflow focuses on:
+Practicing realistic SOC Analyst L1 scenarios involving security alert triage, investigation, and incident response.
 
-1. Reviewing the alert and assessing its severity.
-2. Collecting and analyzing relevant logs and evidence.
-3. Investigating suspicious processes, authentication events, and network activity.
-4. Validating indicators of compromise using threat intelligence.
-5. Determining whether the activity is malicious, benign, or requires further investigation.
-6. Documenting findings and recommending containment or L2 escalation when appropriate.
+- Analyze suspicious process execution and authentication activity.
+- Investigate indicators of compromise using threat intelligence.
+- Distinguish between true positive and false positive alerts.
+- Document investigation findings and recommend appropriate response actions.
+- Escalate confirmed or complex incidents to higher-level analysts.
 
-## 📚 Current Learning Goals
+### ⚙️ Python Security Automation
 
-- Strengthening L1 SOC alert triage and investigation skills.
-- Improving SIEM and log analysis capabilities.
-- Developing a deeper understanding of endpoint and network threats.
-- Practicing incident response procedures and threat intelligence research.
+Developing Python skills to support cybersecurity investigations and automate repetitive security operations tasks.
 
+- Automating data processing and analysis.
+- Building scripts to support IOC investigation.
+- Exploring opportunities to streamline alert triage and SOC workflows.
 
+---
 
+## 📚 Current Focus
 
-<p align="center">
-  <i>Investigate. Analyze. Detect. Respond. 🔐</i>
-</p>
+- Strengthening practical SOC Analyst L1 investigation skills.
+- Improving threat detection and log analysis.
+- Developing Python-based security tools and automation scripts.
+- Practicing incident documentation, evidence collection, and escalation.
+- Expanding my cybersecurity lab experience through hands-on training.
+
+## 🤝 Opportunities
+
+I am open to **SOC Analyst L1 positions, cybersecurity internships, and entry-level security automation opportunities** where I can apply my skills, continue learning, and contribute to security operations.
+
+---
+
 
 <p align="center">
   <i>Learning continuously. Investigating methodically. Building with purpose. 🔐</i>
